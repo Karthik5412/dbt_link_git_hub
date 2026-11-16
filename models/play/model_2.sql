@@ -1,4 +1,4 @@
-{{config(database= 'steel')}}
+{{config(database= 'dbt_play')}}
 
 select 
     make,
